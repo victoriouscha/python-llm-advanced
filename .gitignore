@@ -1,0 +1,12 @@
+# Python 가상환경 제외
+.venv/
+
+# Python 임시 파일 제외
+__pycache__/
+*.pyc
+
+# Jupyter 임시 파일 제외
+.ipynb_checkpoints/
+
+# API 키 및 비밀번호 파일 제외
+.env
