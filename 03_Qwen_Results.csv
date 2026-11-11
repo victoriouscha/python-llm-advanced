@@ -1,0 +1,4 @@
+﻿max_new_tokens,generated_tokens,seconds,tokens_per_second
+30,30,1.64,18.31
+60,60,3.03,19.82
+100,100,4.88,20.51
